@@ -1,6 +1,6 @@
 ## Hi there I'm David Ortega 👋
 
-<figure><embed src="https://wakatime.com/share/@48ac417d-5fe9-4504-a1da-6da161bd1152/20e9becf-c3ad-4dbc-a00e-e4416af32a9c.svg"></embed></figure>
+[Link](<figure><embed src="https://wakatime.com/share/@48ac417d-5fe9-4504-a1da-6da161bd1152/20e9becf-c3ad-4dbc-a00e-e4416af32a9c.svg"></embed></figure>)
 
 Este perfil muestra un enfoque multidisciplinario en tecnologías tanto frontend como backend, destacando proyectos relevantes en Angular y Java.
 
