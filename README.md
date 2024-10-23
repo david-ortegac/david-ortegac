@@ -29,6 +29,26 @@ Este perfil muestra un enfoque multidisciplinario en tecnologías tanto frontend
   - **curso-fullstack-react**: 3 commits  
   - **eccocar**: 8 commits  
 
+---
+
+## Actividad en Tiempo Real  
+Tu actividad en programación es un indicador clave de tu compromiso. A continuación, se muestra un resumen visual de tu productividad:
+
+<figure>
+  <embed src="https://wakatime.com/share/@48ac417d-5fe9-4504-a1da-6da161bd1152/20e9becf-c3ad-4dbc-a00e-e4416af32a9c.svg"></embed>
+</figure>
+
+---
+
+## Resumen de la Actividad  
+- **Lenguajes utilizados**: JavaScript, Java  
+- **Proyectos clave**: Fullstack con React y Java  
+- **Commits en proyectos destacados**:  
+  - **curso-fullstack-react**: 3 commits  
+  - **eccocar**: 8 commits  
+- **Enfoque**: Desarrollo moderno utilizando herramientas colaborativas, servicios en la nube y automatización del backend.
+
+---
 
 <!--
 **david-ortegac/david-ortegac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
