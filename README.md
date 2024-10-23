@@ -1,7 +1,5 @@
 ## Hi there I'm David Ortega 👋
 
-[![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)](https://ejemplo.com)
-
 Este perfil muestra un enfoque multidisciplinario en tecnologías tanto frontend como backend, destacando proyectos relevantes en Angular y Java.
 
 ## Repositorios Destacados
