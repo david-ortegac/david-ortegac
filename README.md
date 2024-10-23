@@ -1,64 +1,80 @@
-## Hi there I'm David Ortega 👋
+# David Alberto Ortega Cadena
 
-Este perfil muestra un enfoque multidisciplinario en tecnologías tanto frontend como backend, destacando proyectos relevantes en Angular y Java.
-
-## Repositorios Destacados
-
-- **[eccocar](https://github.com/david-ortegac/eccocar)**:  
-  Proyecto en Java, utilizando Gradle para la gestión de dependencias. Este proyecto parece orientado hacia aplicaciones backend y servicios automatizados.
-- **Lenguaje principal**: Java  
-- **Commits realizados**: 8  
-- **Descripción**: Este proyecto backend utiliza Gradle para la automatización de builds y la gestión de dependencias. Demuestra habilidades avanzadas en el desarrollo con Java, un enfoque en escalabilidad y servicios backend.
-
-## Tecnologías Principales
-- **Frontend**:  
-  - React.js
-  - Angular
-  - JavaScript  
-- **Backend**:  
-  - Java  
-  - Firebase  
-  - Gradle  
-
-## Resumen de la Actividad  
-- **Lenguajes usados**: JavaScript, Java  
-- **Enfoque**: Proyectos tanto frontend como backend con herramientas modernas y servicios en la nube.  
-- **Commits destacados**:  
-  - **curso-fullstack-react**: 3 commits  
-  - **eccocar**: 8 commits  
+**Ingeniero de Software | Spring Boot | Angular | Laravel | Oracle | MySQL**  
+Ubicación: Ibagué, Tolima, Colombia  
+[LinkedIn](https://www.linkedin.com/in/davidortegacadena)  
+Correo: davidortegacadena@gmail.com  
 
 ---
 
-## Actividad en Tiempo Real  
-Tu actividad en programación es un indicador clave de tu compromiso. A continuación, se muestra un resumen visual de tu productividad:
-
-<figure>
-  <embed src="https://wakatime.com/share/@48ac417d-5fe9-4504-a1da-6da161bd1152/20e9becf-c3ad-4dbc-a00e-e4416af32a9c.svg"></embed>
-</figure>
+## 📄 Extracto
+Ingeniero en Sistemas y estudiante de maestría en desarrollo de software con amplia experiencia como **Desarrollador Full-Stack**. Experto en Java, Angular y Spring Boot, enfocado en la implementación de soluciones innovadoras y eficientes. Con habilidades de liderazgo, ha dirigido equipos y proyectos educativos, así como hackathones ganadores. Apasionado por la innovación, busca aplicar las últimas tendencias en desarrollo.
 
 ---
 
-## Resumen de la Actividad  
-- **Lenguajes utilizados**: JavaScript, Java  
-- **Proyectos clave**: Fullstack con React y Java  
-- **Commits en proyectos destacados**:  
-  - **curso-fullstack-react**: 3 commits  
-  - **eccocar**: 8 commits  
-- **Enfoque**: Desarrollo moderno utilizando herramientas colaborativas, servicios en la nube y automatización del backend.
+## 💼 Experiencia
+
+### ADL Digital Lab  
+**Desarrollador Back-end**  
+*Julio de 2024 - Presente*  
+- Implementación de soluciones back-end utilizando **Java Spring Boot** y **Docker**.
+  
+### ECS Fin Latam  
+**Ingeniero de Software Mid Senior**  
+*Octubre de 2023 - Abril de 2024 (7 meses)*  
+- Desarrollo de procesos internos cumpliendo altos estándares para clientes y bancos.
+- Pruebas unitarias con **JUnit** y **Mockito**.
+- Despliegue en ambientes QA utilizando **Jenkins** y **Docker en AWS**.
+
+### Novatec Solutions  
+**Programador Full-Stack**  
+*Mayo de 2022 - Septiembre de 2023 (1 año 5 meses)*  
+- Liderazgo en el desarrollo de aplicaciones utilizando **Spring Boot** y **Angular** con arquitectura hexagonal.
+- Implementación de pruebas unitarias y análisis de código con **SonarQube**.
+- Despliegue continuo utilizando **Jenkins**.
+
+### Universidad Cooperativa de Colombia  
+**Auxiliar de Gestión Tecnológica**  
+*Agosto de 2017 - Enero de 2022 (4 años 6 meses)*  
+- Desarrollo de aplicaciones con **Java**, **Delphi** y **MySQL**.
+- Creación de aplicaciones personalizadas con **Laravel**, **VueJS** y **Firebase**.
+- Participación en hackathones ganadores a nivel nacional e internacional.
 
 ---
 
-<!--
-**david-ortegac/david-ortegac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Educación
 
-Here are some ideas to get you started:
+- **Máster en Ingeniería de Software y Sistemas Informáticos**  
+  *Universidad Internacional de La Rioja (UNIR)* — Marzo de 2024  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ingeniería en Sistemas**  
+  *Universidad Cooperativa de Colombia* — Agosto de 2016 - Diciembre de 2021  
+
+- **Diplomado en Desarrollo de Aplicaciones Web**  
+  *Universidad Nacional de Colombia* — Agosto de 2022 - Octubre de 2022  
+
+- **Especialización Tecnológica en Desarrollo de Aplicaciones Móviles**  
+  *Servicio Nacional de Aprendizaje (SENA)* — Julio de 2015 - Diciembre de 2015  
+
+---
+
+## 🏅 Certificaciones
+- Curso de Programación Orientada a Objetos (POO)  
+- Curso Gratis de Programación Básica  
+- Curso de Fundamentos de Angular  
+- Curso Básico de JavaScript  
+- Curso de Fundamentos de TypeScript  
+
+---
+
+## 🚀 Aptitudes Principales
+- Infraestructura de software  
+- Desarrollo en **Java**  
+- Gestión de proyectos de software  
+
+---
+
+## 📫 Contacto
+- **Ubicación:** Ibagué, Tolima, Colombia  
+- **Correo:** [davidortegacadena@gmail.com](mailto:davidortegacadena@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/davidortegacadena](https://www.linkedin.com/in/davidortegacadena)
