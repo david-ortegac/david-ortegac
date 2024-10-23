@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm David Ortega 👋
+
+<figure><embed src="https://wakatime.com/share/@48ac417d-5fe9-4504-a1da-6da161bd1152/20e9becf-c3ad-4dbc-a00e-e4416af32a9c.svg"></embed></figure>
 
 <!--
 **david-ortegac/david-ortegac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
