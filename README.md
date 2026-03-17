@@ -9,7 +9,7 @@ Correo: davidortegacadena@gmail.com
 ---
 
 <a href="https://www.credly.com/badges/c2486e33-10f1-4d96-8361-3d9813349c9c" target="_blank">
-   <img src="https://images.credly.com/images/c2486e33-10f1-4d96-8361-3d9813349c9c/image.png" width="150" height="150" alt="Credly Badge">
+   <img src="https://images.credly.com/images/c2486e33-10f1-4d96-8361-3d9813349c9c/public_url" width="150" height="150" alt="Credly Badge">
 </a>
 
 ---
