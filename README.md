@@ -8,10 +8,21 @@ Correo: davidortegacadena@gmail.com
 
 ---
 
-<a href="https://www.credly.com/badges/c2486e33-10f1-4d96-8361-3d9813349c9c" target="_blank">
-   <img src="https://images.credly.com/images/c2486e33-10f1-4d96-8361-3d9813349c9c/image.png" width="150" height="150" alt="Credly Badge">
-</a>
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      📍 Ibagué, Tolima, Colombia <br>
+      📧 [davidortegacadena@gmail.com](mailto:davidortegacadena@gmail.com) <br>
+      🔗 [LinkedIn](https://www.linkedin.com/in/davidortegacadena) <br><br>
+      <code>Java</code> <code>Spring Boot</code> <code>Angular</code> <code>Docker</code> <code>AWS</code> <code>SQL</code>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.credly.com/badges/c2486e33-10f1-4d96-8361-3d9813349c9c" target="_blank">
+        <img src="https://images.credly.com/images/c2486e33-10f1-4d96-8361-3d9813349c9c/image.png" width="120" alt="Credly Badge">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📄 Extracto
