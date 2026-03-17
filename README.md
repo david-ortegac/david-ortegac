@@ -8,6 +8,10 @@ Correo: davidortegacadena@gmail.com
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c2486e33-10f1-4d96-8361-3d9813349c9c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+---
+
 ## 📄 Extracto
 Ingeniero en Sistemas y estudiante de maestría en desarrollo de software con amplia experiencia como **Desarrollador Full-Stack**. Experto en Java, Angular y Spring Boot, enfocado en la implementación de soluciones innovadoras y eficientes. Con habilidades de liderazgo, ha dirigido equipos y proyectos educativos, así como hackathones ganadores. Apasionado por la innovación, busca aplicar las últimas tendencias en desarrollo.
 
